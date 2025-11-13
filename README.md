@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disaster Alert System 🌪️
 
 A **real-time disaster alert system** built with **Streamlit** and **OpenWeatherMap API**.  
@@ -86,3 +87,6 @@ Phase 3: SMS/Email notifications using Twilio / Gmail API.
 Add forecast-based alerts for upcoming 3–5 days.
 
 Allow multiple locations on the map.
+=======
+# disaster_alert
+>>>>>>> e17e8ff689e69fa5cf29443db64e653c333ae113
