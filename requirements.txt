@@ -1,0 +1,9 @@
+streamlit==1.26.0
+python-dotenv
+requests
+folium
+streamlit-folium
+twilio
+pandas
+matplotlib
+pyttsx3==2.90
